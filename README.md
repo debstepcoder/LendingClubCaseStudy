@@ -59,17 +59,17 @@ To develop your understanding of the domain, you are advised to independently re
 
 
 ## Technologies Used
-- Python
-- Matplotlib
-- Numpy
-- Pandas
-- Seaborn
+- Python v3.10
+- Matplotlib v3.5.0
+- Numpy v1.21.5
+- Pandas v1.3.5
+- Seaborn v0.11.2
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-\
+
 - This project was inspired by...
 - References if any...
 - This project was based on [UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform : ](https://www.upgrad.com/machine-learning-ai-pgd-iiitb/).
