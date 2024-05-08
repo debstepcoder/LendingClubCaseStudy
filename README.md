@@ -76,7 +76,7 @@ To develop your understanding of the domain, you are advised to independently re
 
 
 ## Contact
-Created by @debstepcoder - feel free to contact me!
+Created by [@debstepcoder](https://github.com/debstepcoder) - feel free to contact me!
 
 
 
